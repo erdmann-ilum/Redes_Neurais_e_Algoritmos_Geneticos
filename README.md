@@ -17,4 +17,4 @@ Módulos utilizados:
 - sklearn
 - seaborn
 
-As funções fundamentais (e as classes da rede neural) utilizadas nos cadernos foram escritas pelo Prof. Cassar durante as aulas desenvolvidas no semestre.
+As classes da rede neural MLP e os operadores genéticos fundamentais (ex: mutação simples, seleção por torneio, etc.)  utilizadas nos cadernos foram escritas pelo Prof. Cassar durante as aulas desenvolvidas no semestre.
